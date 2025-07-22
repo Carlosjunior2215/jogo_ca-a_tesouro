@@ -1,0 +1,1 @@
+Jogo Caça Tesouro, onde são salvas as vitórias, derrotas e movimentos do jogador, com limite de vidas e dicas de quente ou frio para quando estiver perto ou longe do tesouro.
